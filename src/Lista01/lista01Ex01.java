@@ -1,3 +1,6 @@
+package Lista01;
+
+
 import java.util.Scanner;
 
 public class lista01Ex01 {

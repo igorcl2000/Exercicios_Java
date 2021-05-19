@@ -1,9 +1,11 @@
+package Lista03;
+
 import java.util.Scanner;
 
 /**
- * lista03Ex03
+ * Innerlista03Ex02
  */
-public class lista03Ex03 {
+public class lista03Ex02 {
 
     public static void main(String[] args) {
         int n1, n2;
@@ -13,8 +15,8 @@ public class lista03Ex03 {
         System.out.println("Digite um número:");
         n2 = leitor.nextInt();
 
-        int mult = n1*n2;
+        int soma = n1+n2;
 
-        System.out.println(n1 + " * " + n2 + " = " + mult); 
+        System.out.println(n1 + " + " + n2 + " = " + soma);
     }
 }

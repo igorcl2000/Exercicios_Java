@@ -1,21 +1,21 @@
+package Lista03;
+
 import java.util.Scanner;
 
 /**
- * lista04Ex05
+ * lista03Ex04
  */
-public class lista04Ex05 {
+public class lista03Ex04 {
 
     public static void main(String[] args) {
-        int num, i;
-        int fact = 1;
+        int num, b;
         Scanner leitor = new Scanner(System.in);
         System.out.println("Digite um número:");
         num = leitor.nextInt();
 
-        for(i=1;i<=num;i++){
-            fact *=i;
+        while(num>0){
+            num = num/2;
+            System.out.println(num%2);
         }
-
-        System.out.println("O fatorial de "+ num + " é: " + fact);
     }
 }

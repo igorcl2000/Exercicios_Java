@@ -1,3 +1,5 @@
+package Lista02;
+
 import javax.swing.JOptionPane;
 
 /**
