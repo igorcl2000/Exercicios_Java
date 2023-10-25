@@ -1,13 +1,6 @@
-## Getting Started
+# Diretório de Exercícios em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este diretório contém uma coleção de exercícios em Java projetados para ajudar no treinamento de lógica de programação e habilidades de programação em Java. Esses exercícios são adequados para iniciantes que desejam aprender Java e aprimorar suas habilidades de solução de problemas.
 
 ## Dependency Management
 
